@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.2 FirstStepsInCoding-Lab/01.2 FirstStepsInCoding-Lab.iml" filepath="$PROJECT_DIR$/01.2 FirstStepsInCoding-Lab/01.2 FirstStepsInCoding-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.3 FirstStepsInCoding-Exercise/01.3 FirstStepsInCoding-Exercise.iml" filepath="$PROJECT_DIR$/01.3 FirstStepsInCoding-Exercise/01.3 FirstStepsInCoding-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.4 FirstStepsInCoding-MoreExercises/01.4 FirstStepsInCoding-MoreExercises.iml" filepath="$PROJECT_DIR$/01.4 FirstStepsInCoding-MoreExercises/01.4 FirstStepsInCoding-MoreExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2 ConditionalStatements-Lab/02.2 ConditionalStatements-Lab.iml" filepath="$PROJECT_DIR$/02.2 ConditionalStatements-Lab/02.2 ConditionalStatements-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3 ConditionalStatements-Exercise/02.3 ConditionalStatements-Exercise.iml" filepath="$PROJECT_DIR$/02.3 ConditionalStatements-Exercise/02.3 ConditionalStatements-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.4 ConditionalStatements-MoreExercises/02.4 ConditionalStatements-MoreExercises.iml" filepath="$PROJECT_DIR$/02.4 ConditionalStatements-MoreExercises/02.4 ConditionalStatements-MoreExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2 ConditionalStatementsAdvanced-Lab/03.2 ConditionalStatementsAdvanced-Lab.iml" filepath="$PROJECT_DIR$/03.2 ConditionalStatementsAdvanced-Lab/03.2 ConditionalStatementsAdvanced-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.3 ConditionalStatementsAdvanced-Exercise/03.3 ConditionalStatementsAdvanced-Exercise.iml" filepath="$PROJECT_DIR$/03.3 ConditionalStatementsAdvanced-Exercise/03.3 ConditionalStatementsAdvanced-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.4 ConditionalStatementsAdvanced-More Exercises/03.4 ConditionalStatementsAdvanced-More Exercises.iml" filepath="$PROJECT_DIR$/03.4 ConditionalStatementsAdvanced-More Exercises/03.4 ConditionalStatementsAdvanced-More Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.2 ForLoop-Lab/04.2 ForLoop-Lab.iml" filepath="$PROJECT_DIR$/04.2 ForLoop-Lab/04.2 ForLoop-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.3 ForLoop-Exercise/04.3 ForLoop-Exercise.iml" filepath="$PROJECT_DIR$/04.3 ForLoop-Exercise/04.3 ForLoop-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.4 ForLoop-MoreExercise/04.4 ForLoop-MoreExercise.iml" filepath="$PROJECT_DIR$/04.4 ForLoop-MoreExercise/04.4 ForLoop-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.2 WhileLoop-Lab/05.2 WhileLoop-Lab.iml" filepath="$PROJECT_DIR$/05.2 WhileLoop-Lab/05.2 WhileLoop-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.3 WhileLoop-Exercise/05.3 WhileLoop-Exercise.iml" filepath="$PROJECT_DIR$/05.3 WhileLoop-Exercise/05.3 WhileLoop-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.4 WhileLoop-MoreExercises/05.4 WhileLoop-MoreExercises.iml" filepath="$PROJECT_DIR$/05.4 WhileLoop-MoreExercises/05.4 WhileLoop-MoreExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.2 NestedLoops-Lab/06.2 NestedLoops-Lab.iml" filepath="$PROJECT_DIR$/06.2 NestedLoops-Lab/06.2 NestedLoops-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3 NestedLoops-Exercise/06.3 NestedLoops-Exercise.iml" filepath="$PROJECT_DIR$/06.3 NestedLoops-Exercise/06.3 NestedLoops-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.4 NestedLoops-MoreExercises/06.4 NestedLoops-MoreExercises.iml" filepath="$PROJECT_DIR$/06.4 NestedLoops-MoreExercises/06.4 NestedLoops-MoreExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUniBasicsJava.iml" filepath="$PROJECT_DIR$/.idea/SoftUniBasicsJava.iml" />
+    </modules>
+  </component>
+</project>
